@@ -1,6 +1,9 @@
 # ((•ᴗ•))
 
-I build open-source tools for coding agents, terminal workflows, and playful developer software.
+Hi, I'm Tev. I build open-source tools for coding agents, terminal workflows, and playful
+developer software.
+
+Founding engineer at an early-stage startup · applied AI by day, small sharp CLIs by night.
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -9,10 +12,16 @@ I build open-source tools for coding agents, terminal workflows, and playful dev
 ![Coding Agents](https://img.shields.io/badge/-Coding_Agents-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
 ![Git Worktrees](https://img.shields.io/badge/-Git_Worktrees-F05032?style=flat-square&logo=git&logoColor=white)
 
+I started out in deep learning research, training CNNs for medical image classification,
+and drifted steadily closer to the machine: ML systems, cloud infrastructure, and the
+plumbing that turns a model into something a person can actually use. These days I spend
+most of my time driving coding agents rather than writing every line myself, which turns
+out to be its own engineering problem.
+
 I like tools that feel close to the machine: terminal-first, local-first, installable in
 one command, and legible without a dashboard. My current focus is what happens when you
-run several coding agents at once - a dozen sessions, a dozen worktrees, and no way to
-tell at a glance which one is healthy and which one has quietly gone sideways.
+run several agents at once - a dozen sessions, a dozen worktrees, and no way to tell at a
+glance which one is healthy and which one has quietly gone sideways.
 
 ## Agent & Developer Tools
 
@@ -24,7 +33,14 @@ tell at a glance which one is healthy and which one has quietly gone sideways.
 - Terminal and status-line interfaces that inform without demanding attention
 - One-command installs that wire themselves in and can be cleanly reversed
 - Small sharp binaries over frameworks, local state over services
-- Playful software that is still genuinely useful on a workday
+- Playful software that is still genuinely useful on a workday - I have a weakness for
+  anything with a face on it
+
+## Currently
+
+- **Building** tooling for parallel agent work: status surfaces, worktree hygiene, orchestration
+- **Learning** ML systems, distributed data systems, and high-performance cloud infrastructure
+- **Curious about** GPU programming and how far the local-first version of all this can go
 
 ## Activity
 
