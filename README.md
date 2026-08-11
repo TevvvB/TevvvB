@@ -1,6 +1,6 @@
 # ((•ᴗ•))
 
-Hi, I'm Tev. I build fun, open-source applied AI projects - small things that are genuinely
+Hi, I'm Tev. I am a Founding Engineer in NYC that builds fun, open-source applied AI projects on the side - small things that are genuinely
 useful in a workday and a little bit of a pleasure to have installed.
 
 Founding engineer at an early-stage startup · applied AI by day, playful open source by night.
