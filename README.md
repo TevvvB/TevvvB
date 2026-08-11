@@ -1,6 +1,6 @@
 # ((•ᴗ•))
 
-Terminal-first tools for people who run coding agents all day.
+I build open-source tools for coding agents, terminal workflows, and playful developer software.
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -9,33 +9,14 @@ Terminal-first tools for people who run coding agents all day.
 ![Coding Agents](https://img.shields.io/badge/-Coding_Agents-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
 ![Git Worktrees](https://img.shields.io/badge/-Git_Worktrees-F05032?style=flat-square&logo=git&logoColor=white)
 
-I spend my days driving several coding agents at once, which creates a problem the
-agents themselves do not solve: a dozen sessions, a dozen worktrees, and no way to
-tell at a glance which one is healthy and which one has quietly gone sideways. The
-tools here come out of that. I like them small, local-first, installable in one
-command, and legible without a dashboard.
+I like tools that feel close to the machine: terminal-first, local-first, installable in
+one command, and legible without a dashboard. My current focus is what happens when you
+run several coding agents at once - a dozen sessions, a dozen worktrees, and no way to
+tell at a glance which one is healthy and which one has quietly gone sideways.
 
-## 🐣 parallel-harness-pets
+## Agent & Developer Tools
 
-**[A creature for every git worktree](https://github.com/TevvvB/parallel-harness-pets)**, living in your coding agent's status line.
-Species comes from the branch name, mood tracks how tidy that branch is.
-
-```
-((•ᴗ•))  owl  · feat/checkout-flow  ♥♥♥♥♥             ·  Opus 5
-[@_@]    frog · fix/session-leak    ♥♡♡♡♡  28△ 27↑    ·  Opus 5
-```
-
-Most terminal pets belong to *you* - one creature, nurtured over time. This one
-belongs to a **worktree**. Six worktrees means six creatures alive at once, each
-recognisable at a glance, so you always know which session you are looking at and
-which one is in trouble.
-
-Works with Claude Code, Codex CLI, tmux, your shell prompt, or any harness via
-`pets render --format=json`. One command to install, one to reverse it.
-
-```sh
-brew install TevvvB/tap/parallel-harness-pets && pets install
-```
+- 🐣 **[parallel-harness-pets](https://github.com/TevvvB/parallel-harness-pets)** - A creature for every git worktree, living in your coding agent's status line. Species comes from the branch name, mood tracks how tidy the branch is. Claude Code, Codex, tmux, any harness. `Go`
 
 ## What I care about
 
@@ -47,7 +28,7 @@ brew install TevvvB/tap/parallel-harness-pets && pets install
 
 ## Activity
 
-![Contribution graph](https://ghchart.rshah.org/TevvvB)
+![GitHub Contribution Graph](https://ghchart.rshah.org/TevvvB)
 
 ## Connect
 
@@ -55,5 +36,6 @@ brew install TevvvB/tap/parallel-harness-pets && pets install
 
 ---
 
-If you are building for coding agents - orchestration, status surfaces, worktree
-tooling, anything that makes parallel agent work less chaotic - I want to see it.
+Most of my work lives around coding agents, worktree tooling, and the small interfaces
+that keep parallel agent work from turning into chaos. If you are building in that space,
+I probably want to see it.
