@@ -27,15 +27,12 @@ is mostly what I ship. More on the way.
 
 - 🐣 **[parallel-harness-pets](https://github.com/TevvvB/parallel-harness-pets)** - A creature for every git worktree, living in your coding agent's status line. Species comes from the branch name, mood tracks how tidy the branch is. Claude Code, Codex, tmux, any harness. `Go`
 
-## What I care about
+## Off the clock
 
-- AI that earns its place in a real workday rather than in a demo
-- Agent workflows that stay legible when you are running six of them in parallel
-- Interfaces that inform without demanding attention
-- One-command installs that wire themselves in and can be cleanly reversed
-- Local state over services, small sharp binaries over frameworks
-- Playful software that is still genuinely useful - I have a weakness for anything with a
-  face on it
+- Bouldering, mostly the falling-off part
+- Chasing down new restaurants, then over-recommending them to everyone
+- Guitar, electric and acoustic, neither of them quietly
+- Spotify playlists I maintain with more rigour than some production systems
 
 ## Currently
 
